@@ -121,3 +121,8 @@ dist/protocol.schema.json
 
 # Synthing
 **/.stfolder/
+node
+openclaw@*
+node
+openclaw@*
+skills/auto-install-skill/
